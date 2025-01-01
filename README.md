@@ -1,4 +1,4 @@
-
+( https://gprm.itsvg.![snake gif](https://github.com/rushobhit/rushobhit/blob/output/github-snake-dark.svg)
 # 💫 About Me:
 More of a learner!
 
@@ -14,5 +14,5 @@ More of a learner!
 [![](https://visitcount.itsvg.in/api?id=rushobhit&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM -->
-( https://gprm.itsvg.![snake gif](https://github.com/rushobhit/rushobhit/blob/output/github-snake-dark.svg)
+
 
