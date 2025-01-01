@@ -1,4 +1,4 @@
-( https://gprm.itsvg.![snake gif](https://github.com/rushobhit/rushobhit/blob/output/github-snake-dark.svg)
+![snake gif](https://github.com/rushobhit/rushobhit/blob/output/github-snake-dark.svg)
 # 💫 About Me:
 More of a learner!
 
